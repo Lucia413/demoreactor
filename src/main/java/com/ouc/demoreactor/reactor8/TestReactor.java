@@ -29,5 +29,6 @@ public class TestReactor {
         Flux.fromStream(stream);
         System.out.println("HAHH");
         System.out.println("hhh");
+        System.out.println("master");
     }
 }
