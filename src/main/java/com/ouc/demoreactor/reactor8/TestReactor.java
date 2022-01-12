@@ -28,5 +28,6 @@ public class TestReactor {
         Stream<Integer> stream = list.stream();
         Flux.fromStream(stream);
         System.out.println("HAHH");
+        System.out.println("hhh");
     }
 }
