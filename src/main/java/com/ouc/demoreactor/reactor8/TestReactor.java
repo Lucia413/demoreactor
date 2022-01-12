@@ -27,5 +27,6 @@ public class TestReactor {
         Flux.fromIterable(list);
         Stream<Integer> stream = list.stream();
         Flux.fromStream(stream);
+        System.out.println("HAHH");
     }
 }
