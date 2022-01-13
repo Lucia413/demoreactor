@@ -8,6 +8,7 @@ class DemoreactorApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("push一下");
     }
 
 }
